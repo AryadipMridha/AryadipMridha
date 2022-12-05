@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryadipmridha" alt="aryadipmridha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mridha.aryadip" target="blank"><img src="https://img.shields.io/twitter/follow/mridha.aryadip?logo=twitter&style=for-the-badge" alt="mridha.aryadip" /></a> </p>
+<p align="left"> <a href="https:twitter.com/mridha_aryadip" target="blank"><img src="https://img.shields.io/twitter/follow/mridha.aryadip?logo=twitter&style=for-the-badge" alt="mridha.aryadip" /></a> </p>
 
 - 📫 How to reach me **aryadipmridha@yahoo.com**
 
