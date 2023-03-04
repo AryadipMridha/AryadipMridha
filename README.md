@@ -40,4 +40,4 @@ Currently ,
 
 ◉ Pursuing Post Graduate Program in Data Science & Machine Learning.
 ◉Engaged doing Industrial scale Capstone projects in sectors like FMCG , Healthcare , Banking and Finance etc.
-◉ Seeking suitable placement as per my expertise and experience in Kolkata/Hybrid/Work from Home opportunity.
+◉ Working as a Software Consultant at TuTeck Technologies.
