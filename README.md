@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryadip Mridha</h1>
+<h1 align="center">Hi, I'm  aryadip.</h1>
 <h3 align="center">A Full Stack Web Developer, Data Scientist and Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **To Do List V1**
