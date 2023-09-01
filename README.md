@@ -109,7 +109,7 @@
 <!--profile visit count-->
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=AryadipMridha
+![](https://komarev.com/ghpvc/?username=AryadipMridha)
   
 </div>
 
