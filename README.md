@@ -36,13 +36,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Nodejs**
+- 🔭 I’m currently working on **YOLO V8, MISTRAL**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - ☁️ I've keen interest in Machine learning.
 
-- 💬 Ask me about **React, Nodejs**
+- 💬 Ask me about **My Portfolio**
 
 - 📫 Feel free to reach me out **mearjo1999@gmail.com**
 
