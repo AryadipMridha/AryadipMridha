@@ -116,7 +116,7 @@
 <!--icons and links-->
 <p align="center">
  
-<a href="https://www.linkedin.com/in/aryadipmridha/" target="blank"><img align="center" src=" https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/aryadipmridha/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/mridha_aryadip" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/bombbushka/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
