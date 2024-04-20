@@ -55,6 +55,20 @@
 </div>
 
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">I also work on Full Stack Web Development. Occationally...</h2></summary>
+  </ul>
+</div>
+
+
+<!--- gif -->
+<div align="center">
+  <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+       alt="gitcat" width="250" height="250" /></a>
+</div>
+
+
 
 <!--- stats & Trophy (start) -->
 
@@ -78,13 +92,6 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AryadipMridha&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
 
 
 </p>        
