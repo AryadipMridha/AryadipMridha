@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, Welcome</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, Welcome, it me Aryadip</h1></summary>
   </ul>
 </div>
 
@@ -20,8 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> When I wrote this, only God and I understood what I was doing
- Now, God only knows</h2></summary>
+    <summary><h2 style="display: inline-block">I am a Data Scientist. I work with Generative AI, LLMs.</h2></summary>
   </ul>
 </div>
 
