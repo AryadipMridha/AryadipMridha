@@ -13,7 +13,7 @@
 <!--- gif -->
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
-       alt="gitcat" /></a>
+       alt="gitcat" width="50" height="50" /></a>
 </div>
 
 
