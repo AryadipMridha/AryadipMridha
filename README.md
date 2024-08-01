@@ -36,7 +36,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **YOLO V8, MISTRAL**
+- 🔭 I’m currently working on **Deep Learning Models, Large Language Models(LLMs)**
 
 - 🌱 I’m currently learning **Machine Learning**
 
