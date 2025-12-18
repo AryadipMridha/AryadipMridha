@@ -6,7 +6,7 @@ Feel free to take inspiration for your own profile!
 
 <div align="center">
   <h1 style="display: inline-block;">Hi, I'm Aryadip Mridha 👋</h1>
-  <h3>AI Researcher & Data Scientist</h3>
+  <h3>Machine Learning, Artificial Intelligence Engineer & Data Scientist</h3>
 </div>
 
 <!-- Optional: A beautiful header banner. Create one in Canva or similar tools! -->
