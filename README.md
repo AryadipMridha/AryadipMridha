@@ -1,125 +1,160 @@
 <!-- 
-Hello! You're looking at the source code for my GitHub profile.
-I've designed this to showcase my skills and projects in the field of AI.
-Feel free to take inspiration for your own profile!
+✨ ARYADIP'S FINAL SCI-FI PROFILE
 -->
 
+<!-- 1. HEADER BANNER -->
+<p align="center">
+  <img src="header.png" alt="Aryadip's Banner" width="100%" style="border-radius: 10px;">
+</p>
+
+<!-- 2. TYPING EFFECT -->
 <div align="center">
-  <h1 style="display: inline-block;">Hi, I'm Aryadip Mridha 👋</h1>
-  <h3>Machine Learning, Artificial Intelligence Engineer & Data Scientist</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=787AF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aryadip+Mridha;AI+Engineer+%26+Data+Scientist;Architecting+Autonomous+Agents;Fine-Tuning+LLMs" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- Optional: A beautiful header banner. Create one in Canva or similar tools! -->
-<p align="center">
-  <img src="header.png" alt="A banner showing my name and skills">
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am an AI Researcher and Data Scientist with a deep specialization in **Generative AI**, **Large Language Models (LLMs)**, and **Agentic AI systems**. My expertise extends across the full spectrum of modern AI, including **Deep Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**.
-
-- 🔭 I'm currently building **autonomous AI agents** and fine-tuning LLMs for specialized tasks.
-- 🧠 I am passionate about pushing the boundaries of artificial intelligence and developing systems that can reason, create, and solve complex problems.
-- ⚡ My background in **full-stack development** enables me to not only design advanced models but also build and deploy robust, end-to-end AI applications.
-- 📫 How to reach me: **[mearjo1999@gmail.com](mailto:mearjo1999@gmail.com)**
-- 📄 Let's connect on **[LinkedIn](https://www.linkedin.com/in/aryadipmridha/)**
-
----
-
-### 🛠️ My Tech Stack
-
-My toolkit is a blend of cutting-edge AI frameworks and robust development technologies.
-
-<p align="center">
-  <strong><h4>🤖 AI & Machine Learning</h4></strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,langchain,opencv,numpy,pandas" />
-  </a>
-  <br>
-  <strong><h4>🌐 Web Development & Database</h4></strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,mysql,html,css" />
-  </a>
-  <br>
-  <strong><h4>⚙️ Tools & Platforms</h4></strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,linux" />
-  </a>
-</p>
-
----
-
-### 🏆 My Featured Projects
-
-Here are some of the projects I'm most proud of. This is where I apply my skills to solve real-world problems.
-
-<!-- PROJECT 1 -->
-<details>
-  <summary><strong>🚀 Project 1: [Your Project Name Here - e.g., Autonomous Research Agent]</strong></summary>
-  <br>
-  This project features an AI agent built with LangChain and multiple LLMs that can autonomously research a topic, browse the web, and generate a comprehensive report.
-  <ul>
-    <li><strong>Tech Stack:</strong> Python, LangChain, OpenAI API, Tavily API, Streamlit</li>
-    <li><strong>Key Achievement:</strong> Implemented a multi-agent collaboration framework (e.g., planner, researcher, writer) that significantly improved report quality.</li>
-    <li><a href="YOUR_GITHUB_REPO_LINK_HERE">[GitHub Repository]</a></li>
-  </ul>
-</details>
-
-<!-- PROJECT 2 -->
-<details>
-  <summary><strong>🖼️ Project 2: [Your Project Name Here - e.g., Fine-Tuned Image Captioning Model]</strong></summary>
-  <br>
-  A deep learning project where I fine-tuned a Vision Transformer (ViT) model on a custom dataset to generate highly accurate and context-aware image captions.
-  <ul>
-    <li><strong>Tech Stack:</strong> PyTorch, Hugging Face Transformers, OpenCV, Weights & Biases</li>
-    <li><strong>Key Achievement:</strong> Achieved a 15% improvement in BLEU score over the baseline model by implementing a novel attention mechanism.</li>
-    <li><a href="YOUR_GITHUB_REPO_LINK_HERE">[GitHub Repository]</a></li>
-  </ul>
-</details>
-
-<!-- PROJECT 3 -->
-<details>
-  <summary><strong>💬 Project 3: [Your Project Name Here - e.g., RAG-based Customer Support Chatbot]</strong></summary>
-  <br>
-  Developed a chatbot using Retrieval-Augmented Generation (RAG) to provide instant, accurate answers from a large knowledge base of technical documentation.
-  <ul>
-    <li><strong>Tech Stack:</strong> TensorFlow, FAISS, LlamaIndex, Node.js, React</li>
-    - <strong>Key Achievement:</strong> Reduced query latency by 40% and hallucination rates by 95% compared to a non-RAG baseline.
-    <li><a href="YOUR_GITHUB_REPO_LINK_HERE">[GitHub Repository]</a></li>
-  </ul>
-</details>
-
----
-
-### 📊 My GitHub Stats
-
-<<div align="center">
-  <!-- 1. General Stats -->
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=AryadipMridha&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-
-  <!-- 2. Streak Stats (Moved to middle for symmetry) -->
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryadipMridha&theme=tokyonight&hide_border=true" />
-
-  <!-- 3. Top Langs (Count reduced to 5 to match height of others) -->
-  <img width="30%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AryadipMridha&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aryadipmridha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:mearjo1999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<!-- Add other links like Twitter or your portfolio website -->
-<!-- <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a> -->
-</p>
-
+<!-- SCI-FI DIVIDER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryadipMridha&style=for-the-badge&color=blueviolet" alt="Profile views">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!--horizontal divider(gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<!-- 3. ABOUT ME & BRAIN ANIMATION (Fixed Alignment) -->
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am an AI Researcher specialized in <b>Generative AI</b>, <b>LLMs</b>, and <b>Agentic Systems</b>. I treat code like art and data like fuel.
+      </p>
+      <ul>
+        <li>🔭 Building <b>Autonomous AI Agents</b>.</li>
+        <li>🧠 Fine-tuning <b>Large Language Models</b>.</li>
+        <li>⚡ Bridging <b>Deep Learning</b> with <b>Full-Stack</b>.</li>
+      </ul>
+      <br>
+      <!-- SOCIAL BADGES -->
+      <a href="mailto:mearjo1999@gmail.com">
+        <img src="https://img.shields.io/badge/Email-mearjo1999%40gmail.com-blue?style=for-the-badge&logo=gmail">
+      </a>
+      <a href="https://www.linkedin.com/in/aryadipmridha/">
+        <img src="https://img.shields.io/badge/LinkedIn-Aryadip-0077B5?style=for-the-badge&logo=linkedin">
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- SCI-FI BRAIN GIF -->
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 10px;" alt="AI Brain"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 4. TECH STACK -->
+<div align="center">
+  <h3>🛠️ Neural Toolkit & Tech Stack</h3>
+  
+  <p><b>🧠 Artificial Intelligence Core</b></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,opencv,numpy,pandas&theme=dark" />
+    </a>
+  </p>
+
+  <p><b>🌐 Web Matrix & Data</b></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,mysql,html,css,firebase&theme=dark" />
+    </a>
+  </p>
+
+  <p><b>⚙️ Command Center</b></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,bash&theme=dark" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+<!-- 5. PROJECTS -->
+<h3>🏆 Mission Logs (Featured Projects)</h3>
+
+<details>
+  <summary><strong>🚀 Project 1: Autonomous Research Agent</strong></summary>
+  <blockquote>
+    An AI agent built with LangChain that autonomously browses the web to generate comprehensive research reports.
+    <br>
+    <b>Stack:</b> Python, LangChain, OpenAI, Tavily
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>🖼️ Project 2: Vision Transformer (ViT) Fine-Tuning</strong></summary>
+  <blockquote>
+    Custom fine-tuning of ViT models for context-aware image captioning with novel attention mechanisms.
+    <br>
+    <b>Stack:</b> PyTorch, Hugging Face, Weights & Biases
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>💬 Project 3: RAG-based Support Bot</strong></summary>
+  <blockquote>
+    Retrieval-Augmented Generation system reducing hallucination by 95% using vector databases.
+    <br>
+    <b>Stack:</b> TensorFlow, FAISS, LlamaIndex, React
+  </blockquote>
+</details>
+
+<br>
+
+<!-- 6. GITHUB ANALYTICS (FIXED TABLE LAYOUT) -->
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33%" align="center" style="border: none;">
+      <!-- General Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=AryadipMridha&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" width="100%" />
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <!-- Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryadipMridha&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <!-- Top Langs (5 count to keep height reasonable) -->
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AryadipMridha&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 7. EXTRA COOL STUFF -->
+<div align="center">
+  
+  <p><b>🏆 Achievements Unlocked</b></p>
+  <!-- Fixed Trophies Link: Removed complex params to ensure it loads -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AryadipMridha&theme=tokyonight&no-frame=true&margin-w=4" width="100%" />
+  </a>
+
+  <br><br>
+
+  <p><b>📉 Contribution Frequency</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryadipMridha&bg_color=1a1b27&color=787AF0&line=bc93f9&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br>
+
+<!-- 8. FOOTER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=AryadipMridha&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views">
+</div>
