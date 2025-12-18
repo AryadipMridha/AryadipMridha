@@ -1,5 +1,5 @@
 <!-- 
-✨ ARYADIP'S FINAL SCI-FI PROFILE
+✨ ARYADIP'S SCI-FI GITHUB PROFILE - FINAL VERSION
 -->
 
 <!-- 1. HEADER BANNER -->
@@ -21,7 +21,7 @@
 
 <br>
 
-<!-- 3. ABOUT ME & BRAIN ANIMATION (Fixed Alignment) -->
+<!-- 3. ABOUT ME & BRAIN ANIMATION -->
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="middle">
@@ -134,17 +134,18 @@
 
 <br>
 
-<!-- 7. EXTRA COOL STUFF -->
+<!-- 7. ACHIEVEMENTS & ACTIVITY -->
 <div align="center">
   
+  <!-- Fixed Trophies Link: Switched theme to 'onedark' -->
   <p><b>🏆 Achievements Unlocked</b></p>
-  <!-- Fixed Trophies Link: Removed complex params to ensure it loads -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AryadipMridha&theme=tokyonight&no-frame=true&margin-w=4" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AryadipMridha&theme=onedark&no-frame=true&margin-w=4" width="100%" />
   </a>
 
   <br><br>
 
+  <!-- Activity Graph -->
   <p><b>📉 Contribution Frequency</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryadipMridha&bg_color=1a1b27&color=787AF0&line=bc93f9&point=ffffff&area=true&hide_border=true" width="100%" />
 
