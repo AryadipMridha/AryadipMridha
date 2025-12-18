@@ -10,9 +10,9 @@ Feel free to take inspiration for your own profile!
 </div>
 
 <!-- Optional: A beautiful header banner. Create one in Canva or similar tools! -->
-<!-- <p align="center">
-  <img src="./header.png" alt="A banner showing my name and skills">
-</p> -->
+<p align="center">
+  <img src="header.png" alt="A banner showing my name and skills">
+</p>
 
 ---
 
